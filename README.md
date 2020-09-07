@@ -1,3 +1,5 @@
+# Please contact me at hdanguye@uwaterloo.ca for access to code.
+
 # WLP4 compiler and MIPS assembler
  A compiler for a [subset of C++](https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4tutorial.html) and assembler for a [subset of MIPS](https://www.student.cs.uwaterloo.ca/~cs241/mips/mipsref.pdf)
 
